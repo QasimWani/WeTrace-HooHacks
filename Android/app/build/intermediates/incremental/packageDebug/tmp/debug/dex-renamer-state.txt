@@ -1,4 +1,0 @@
-#Sun Mar 29 21:24:32 EDT 2020
-base.0=C\:\\Users\\qasim\\Desktop\\Exigence\\COVID-19\\CoronaBluetooth\\Android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
